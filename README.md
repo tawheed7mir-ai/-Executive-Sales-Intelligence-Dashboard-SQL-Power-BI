@@ -74,7 +74,7 @@ The workflow includes:
 
 The SQL data analysis project used for data extraction can be found here:
 
-[SQL Sales Analysis Project](PASTE_YOUR_SQL_REPO_LINK_HERE)
+[SQL Sales Analysis Project](https://github.com/tawheed7mir-ai/Dataware-House-project)
 
 ---
 
